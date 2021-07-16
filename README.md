@@ -7,10 +7,10 @@ The model can name any image belonging to
 - Moimoi
 - Pounded Yam
 - Akara balls
-- 
+- Amala and Ewedu
 
 
-Naming common Nigerian foods using ResNet
+Naming common Nigerian foods using Pytorch's ResNet9
 
 
 The dataset can be found [here](https://jovian.ai/akinremibunmi111/02-insurance-linear-regression)
