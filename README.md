@@ -25,11 +25,11 @@ Data transforms
 - Normalization 
 - Data augmentation
 
-![Preprocessing](https://drive.google.com/file/d/1hWoepfY4bQ3prQ0qsa7Go-uVsRE1S-ry/view?usp=sharing)
+![Preprocessing](https://drive.google.com/file/d/1hWoepfY4bQ3prQ0qsa7Go-uVsRE1S-ry)
 
 # Accuracy curve
 
-![Preprocessing](https://drive.google.com/file/d/1VofP-wp6Ozsstd9IMgc8Xtce-LlpWBrR/view?usp=sharing)
+![AccuracyCurve](https://drive.google.com/file/d/1VofP-wp6Ozsstd9IMgc8Xtce-LlpWBrR)
 
 # The Model
 
@@ -50,6 +50,6 @@ The convolution block contains conv2d, batch normalization and relu function. Th
 - Extracting important features could help
 - Deeper neural network
 
-
+The model was deployed to an android app. Repository found here
 
 
