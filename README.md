@@ -25,11 +25,11 @@ Data transforms
 - Normalization 
 - Data augmentation
 
-![Preprocessing](https://drive.google.com/file/d/1hWoepfY4bQ3prQ0qsa7Go-uVsRE1S-ry)
+![Preprocessing](https://drive.google.com/uc?export=view&id=1hWoepfY4bQ3prQ0qsa7Go-uVsRE1S-ry)
 
 # Accuracy curve
 
-![AccuracyCurve](https://drive.google.com/file/d/1VofP-wp6Ozsstd9IMgc8Xtce-LlpWBrR)
+![AccuracyCurve](https://drive.google.com/uc?export=view&id=1VofP-wp6Ozsstd9IMgc8Xtce-LlpWBrR)
 
 # The Model
 
